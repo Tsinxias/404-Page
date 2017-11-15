@@ -2,7 +2,7 @@ body {
   font-family: Verdana, Helvetica, sans-serif;
   text-align: center;
   font-size: 2em;
-   background-image: url("http://www.shortday.in/wp-content/uploads/2015/05/flowers-wallpaper.jpg");
+  background-image: url("http://pic1.win4000.com/wallpaper/b/58088f6ba613e.jpg");
   background-attachement: fixed;
   background-position: cover;
 }
@@ -40,17 +40,13 @@ button:hover {
   text-decoration: none;
 }
 
-div#left {
-  padding-top: 10px;
-}
-
 div#gauche {
   float: left;
 }
 
 div#droite {
-  font-size: 1.4em;
-  margin-top: 110px;
+  font-size: 1.5em;
+  margin-top: 30px;
   margin-bottom: 100px;
   padding-top: 50px;
 }
