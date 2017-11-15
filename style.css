@@ -1,0 +1,56 @@
+body {
+  font-family: Verdana, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 2em;
+   background-image: url("http://www.shortday.in/wp-content/uploads/2015/05/flowers-wallpaper.jpg");
+  background-attachement: fixed;
+  background-position: cover;
+}
+
+div#above {
+  padding-top: 20px;
+  padding-bottom: 30px;
+  font-size: 1.2em;
+}
+
+button {
+  background: #b834d9;
+  background-image: -webkit-linear-gradient(top, #b834d9, #6d2bb8);
+  background-image: -moz-linear-gradient(top, #b834d9, #6d2bb8);
+  background-image: -ms-linear-gradient(top, #b834d9, #6d2bb8);
+  background-image: -o-linear-gradient(top, #b834d9, #6d2bb8);
+  background-image: linear-gradient(to bottom, #b834d9, #6d2bb8);
+  -webkit-border-radius: 19;
+  -moz-border-radius: 19;
+  border-radius: 19px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 21px;
+  padding: 11px 20px 10px 20px;
+  text-decoration: none;
+}
+
+button:hover {
+  background: #3ca3fc;
+  background-image: -webkit-linear-gradient(top, #3ca3fc, #347ed9);
+  background-image: -moz-linear-gradient(top, #3ca3fc, #347ed9);
+  background-image: -ms-linear-gradient(top, #3ca3fc, #347ed9);
+  background-image: -o-linear-gradient(top, #3ca3fc, #347ed9);
+  background-image: linear-gradient(to bottom, #3ca3fc, #347ed9);
+  text-decoration: none;
+}
+
+div#left {
+  padding-top: 10px;
+}
+
+div#gauche {
+  float: left;
+}
+
+div#droite {
+  font-size: 1.4em;
+  margin-top: 110px;
+  margin-bottom: 100px;
+  padding-top: 50px;
+}
